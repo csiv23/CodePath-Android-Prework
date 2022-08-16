@@ -1,6 +1,6 @@
 # Android Prework - *CodePath-Android-PreWork*
 
-Submitted by: *Cameron Sivo**
+Submitted by: *Cameron Sivo*
 
 **CodePath-Android-PreWork** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
